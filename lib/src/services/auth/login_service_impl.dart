@@ -1,6 +1,5 @@
 import '../../core/global/contantes.dart';
 import '../../core/storage/storage.dart';
-import '../../models/auth_model.dart';
 import '../../repositories/auth/auth_repository.dart';
 import './login_service.dart';
 
